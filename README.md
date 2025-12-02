@@ -90,9 +90,3 @@ jupyter notebook "Heart Disease Classification Model.ipynb"
 - Implement **real-time dashboards and analytics**.  
 - Include **automated health alerts and personalized recommendations**.  
 
----
-
-## 🙋‍♂️ Credits / Contact
-
-This project was developed by **Kolli Vineeth**  
-🔗 GitHub: [@Vineethkolli](https://github.com/Vineethkolli)
